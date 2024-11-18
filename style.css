@@ -9,8 +9,16 @@ header{
     border-bottom:solid 4px red;
     padding: 20px;
     font-size: 32px;
+    color: red;
 }
 
+section{
+    background: blue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
 
 
